@@ -1,0 +1,20 @@
+[
+  "Age",
+  "Gender",
+  "BMI, kg/m2",
+  "Height/m",
+  "History of Heart Failure",
+  "working place",
+  "mMRC",
+  "status of smoking",
+  "Pack History",
+  "Vaccination",
+  "Depression",
+  "Dependent",
+  "Temperature",
+  "Respiratory Rate",
+  "Heart Rate",
+  "Blood pressure",
+  "Oxygen Saturation",
+  "Sputum"
+]
